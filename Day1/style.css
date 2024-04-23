@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    color:white;
+}
+.redcolor{
+    background-color: red;
+}
+.clickme{
+    background: pink;
+    border: none;
+    cursor: pointer;
+    color: red;
+}
+.clickme:hover{
+background-color: brown;
+color: coral;
+border-radius: 20px;
+}
