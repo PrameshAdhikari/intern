@@ -1,0 +1,15 @@
+
+
+
+
+.main{
+    background-color: blue;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: 2f2 2fr;
+
+
+}
+.one{
+    background-color: aquamarine;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fa-arrow-up{
+    font-size: 50px;
+  display: block;
+}
+.hi{
+background-color: red;
+}
+.bottom{
+position: fixed;
+border-radius: 9px;
+bottom: 0%;
+right: 2%;
+border-radius: dotted;
+}
+.navbar{
+    background-color: blue;
+    top:0%;
+    right: 0%;
+    position: sticky;
+    padding: 50px;
+}
+
+.navbar a{
+    text-decoration: none;
+}

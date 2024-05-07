@@ -1,0 +1,31 @@
+.outbox{
+    background-color: blue;
+    
+    grid-template-columns: 1fr;
+    display: grid;
+    margin-left: 40px;
+    
+}
+.inbox{
+    
+    margin: 0% auto;
+    padding: 0% auto;
+   
+
+}
+.login{
+    background-color: blue;
+    margin-left: 10px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    width: 125px;
+    text-align: center;
+}
+.inbox{
+    margin-top: 10px;
+}
+.inbox{
+
+}

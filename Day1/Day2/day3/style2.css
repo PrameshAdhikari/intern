@@ -1,0 +1,35 @@
+.outerdiv{
+    background: rgb(34,193,195);
+background: linear-gradient(166deg, rgba(34,193,195,1) 0%, rgba(8,124,85,1) 25%, rgba(253,187,45,1) 100%);
+margin: 20px;
+padding: 40px;
+}
+.middlediv{
+    background-color:brown;
+    margin: 20px;
+    padding: 40px;
+}
+.innerdiv{
+    background-color:white;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 40px;
+}
+.innerdiv button1{
+    background-color: blue;
+    padding-right: 30px;
+
+
+}
+.innerdiv h1{
+    text-align: center;
+}
+.innerdiv b{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.innerdiv p{
+    background-color: aqua;
+    text-align: center;
+    text-align: justify;
+}
